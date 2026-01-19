@@ -1490,12 +1490,13 @@ input:checked~.nava {
         min-height: 440px;
     }
     .contact1 {
-        width: 300px;
-        height: 200px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: lightblue;
+           width: 600px;
+    height: 200px;
+    padding: 38px;
+    color: white;
+    padding-left: 40px;
+       border-image: linear-gradient(261.13deg, #35C8F9 -0.42%, #BEC8CB 23.42%, #C8C8C8 72.09%, #35C8F9 100.8%);
+    }
     }
 
     .contact2 h1 {
