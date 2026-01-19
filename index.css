@@ -1501,12 +1501,13 @@ input:checked~.nava {
 .contact2{
         width: 287px;
     height: 200px;
-    padding: 34px;
+    padding: 15px;
     color: white;
 }
 
     .contact2 h1 {
         font-size: 20px;
+        padding-left:35px;
     }
 
     .contact2 p {
