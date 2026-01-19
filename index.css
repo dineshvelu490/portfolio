@@ -1489,20 +1489,20 @@ input:checked~.nava {
     .contact{
         min-height: 440px;
     }
-    .contact1 {
-           width:287px;
-    height: 200px;
-    padding: 38px;
-    color: white;
-    padding-left: 40px;
-       border-image: linear-gradient(261.13deg, #35C8F9 -0.42%, #BEC8CB 23.42%, #C8C8C8 72.09%, #35C8F9 100.8%);
+  .contact1 {
+        width: 287px;
+        height: 226px;
+        padding: 0;
+        color: white;
+        padding-left: 40px;
+        border-image: linear-gradient(261.13deg, #35C8F9 -0.42%, #BEC8CB 23.42%, #C8C8C8 72.09%, #35C8F9 100.8%);
     }
     }
 .contact2{
-        width: 287px;
+    width: 287px;
     height: 200px;
-    padding: 15px;
-    color: white;
+    padding: 34px;
+    color: white
 }
 
     .contact2 h1 {
