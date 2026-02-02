@@ -1159,6 +1159,7 @@ input {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    background-color:black;
 }
 
 .pers1 {
