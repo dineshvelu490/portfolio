@@ -1080,6 +1080,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color:black;
 }
 
 .contact1 {
@@ -1152,6 +1153,7 @@ input {
     justify-content: space-between;
     align-items: center;
     position: relative;
+    background-color:black;
 }
 
 .personal {
