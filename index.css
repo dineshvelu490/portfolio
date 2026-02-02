@@ -1075,12 +1075,12 @@ header {
 }
 
 .contact {
-    width: 100%;
+            width: 100%;
     min-height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:black;
+    background-color: black;
 }
 
 .contact1 {
@@ -1149,11 +1149,11 @@ input {
 }
 
 .peraso {
-    display: flex;
+display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
-    background-color:black;
+    background-color: black;
 }
 
 .personal {
